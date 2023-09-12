@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am ...
+I am a computer science student at university of Tehran. I have always been fascinated by computers and robots, and I'm passionate about the evolving field of machine learning and neuroscience.
+
+I excelled during high school and gained admission to the University of Tehran's computer science program. Here, I honed my programming, algorithm design, computer vision, machine learning and data science skills. I also balanced my studies with sports and music, developing teamwork and independence.
+
+As a Neuroscience research assistant at CNRL (Computational Neuroscience Research Laboratory), I am actively engaged in
+cutting-edge, technology-driven research within the field and I work on vision tasks using spiking neural networks. Also as a teaching assistant, I learned how to collaborate professionally with professors and students.
+
+To gain real-world experience, I joined Jetco as a machine learning Developer. In the Advanced Driver-Assistance System (ADAS) team, I worked on real-time depth estimation, 3D reconstruction, and object detection for self-driving cars. This experience taught me valuable skills in research, AI model development, teamwork, and communication.
 
 ## Education
 

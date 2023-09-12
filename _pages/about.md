@@ -36,6 +36,7 @@ I am ...
 * Industry Knowledge
   * Machine Learning
   * Computational Neuroscience
+  * Deep Learning
   * Spiking Neural Networks
   * Computer Vision
   * Data Analysis

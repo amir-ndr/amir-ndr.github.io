@@ -4,11 +4,11 @@ title: "About Amir Naderi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  # - /about/
+  - /about/
   - /about.html
 ---
 
-<!-- ...
+I am ...
 
 ## Education
 
@@ -27,4 +27,15 @@ redirect_from:
 
 ## Skills
 
-... -->
+* Programming
+  * Python
+  * C++
+  * JavaScript
+  * SQL
+  * Assembly
+* Industry Knowledge
+  * Machine Learning
+  * Computational Neuroscience
+  * Spiking Neural Networks
+  * Computer Vision
+  * Data Analysis

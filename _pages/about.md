@@ -17,11 +17,18 @@ To gain real-world experience, I joined [Jetco](https://en.jetco.co/) as a <stro
 
 ## Education
 
+- **Queen's University**  
+  Kingston, CA  
+  *MASc in Electrical and Computer Engineering*  
+  GPA: -  
+  *2024 - Present*  
+
+
 - **University of Tehran**  
   Tehran, Iran  
   *Bachelor of Computer Science*  
   GPA: 3.58/4 (17.27/20)  
-  *2019 - Present*  
+  *2019 - 2024*  
 
 - **National Organization for Development of ExceptionalTalents (Sampad)**  
   Tonekabon, Iran  
@@ -40,6 +47,7 @@ To gain real-world experience, I joined [Jetco](https://en.jetco.co/) as a <stro
   * Assembly
 * Industry Knowledge
   * Machine Learning
+  * Federated Learning
   * Computational Neuroscience
   * Deep Learning
   * Spiking Neural Networks
